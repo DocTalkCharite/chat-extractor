@@ -3,8 +3,23 @@
 A tool extracting, anonymizing and formatting conversation data from a Mattermost MariaDB/MySQL
  database. It is very specific to its intended use case and might need modification to be fit for
  your spefific needs.
-This module was developed as part of the 'DocTalk' research project at Charité Universitätsmedizin
- Berlin.
+This module was developed by Daniel Hetz (github.com/mutex) as part of the 'DocTalk' research
+ project at Charité Universitätsmedizin Berlin.
+
+Copyright (C) 2023  Charité Universitätsmedizin Berlin
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
 
 # global imports
