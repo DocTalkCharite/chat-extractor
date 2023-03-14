@@ -58,7 +58,16 @@ python3 chat_extractor.py -w /path/to/my/output/directory/ my_mattermost_databas
 
 ## Contact
 
-If you want to contact me you can reach me at <your_email@address.com>.
+If you want to contact the project you can write an email to [psychosomatik@charite.de](mailto:psychosomatik@charite.de) or a letter to the following address:
+
+```
+Projekt DocTalk
+Medizinische Klinik m. S. Psychosomatik
+Charité - Universitätsmedizin Berlin
+Charité Platz 1
+10117 Berlin
+Germany
+```
 
 ## License
 
